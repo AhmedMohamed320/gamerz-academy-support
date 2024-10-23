@@ -28,7 +28,7 @@ export default function Home() {
                         <p className="text-8xl font-bold leading-snug">
                             مرحبا بك في مغامرة الدعم!
                         </p>
-                        <p className="text-5xl text-neutral-500">
+                        <p className="text-4xl text-neutral-500">
                             استعد لحل مشكلتك بخطوات بسيطة!
                         </p>
                         <Link href="/questions">
