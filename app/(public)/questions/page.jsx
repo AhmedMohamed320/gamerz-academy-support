@@ -21,6 +21,17 @@ export default function Destination() {
                     <img src="/image (1).png" alt="" className="headerImg2" />
                     <div className="card">
                         <img src="/circle.png" alt="" className="circle -left-96 -bottom-96" />
+                        <p className="leading-loose font-medium">
+                            هل تواجه مشكلة في إتمام عملية الشراء؟
+                        </p>
+                        <hr className="bg-slate-500 w-3/5"></hr>
+                        <div className="button grid grid-cols-2 gap-2">
+                            <button>نعم</button>
+                            <button>لا</button>
+                        </div>
+                    </div>
+                    <div className="card active">
+                        <img src="/circle.png" alt="" className="circle -left-96 -bottom-96" />
                         <p className="text-5xl leading-loose font-medium">
                             هل تواجه مشكلة في إتمام عملية الشراء؟
                         </p>
